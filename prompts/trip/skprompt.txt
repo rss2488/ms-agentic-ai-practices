@@ -1,0 +1,5 @@
+You are an expert tour guide. 
+
+Suggest a fun activity in {{location_plugin.GetLocationInfo}} that I can do right now {{time_plugin.Time}}. 
+
+At the end also summarize it in 3 main bullet points. 

@@ -1,0 +1,17 @@
+{
+	"schema": 1,
+	"name": "advisor",
+	"description": "Suggests a list of activities in a city at the right time and weather.",
+	"execution_settings": {
+		"default": {
+			"temperature": 0.9
+		}
+	},
+	"input_variables": [
+		{
+			"name": "input",
+			"description": "User info",
+			"default": ""
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"schema": 1,
+	"name": "activities",
+	"description": "Suggests a fun activity in a city.",
+	"execution_settings": {
+		"default": {
+			"max_tokens": 1000,
+			"temperature": 0.7,
+			"top_p": 0.0,
+			"presence_penalty": 0.0,
+			"frequency_penalty": 0.0
+		}
+	},
+	"input_variables": [
+		{
+			"name": "city",
+			"description": "City name",
+			"default": ""
+		},
+		{
+			"name": "time",
+			"description": "Current time",
+			"default": ""
+		}
+	]
+}

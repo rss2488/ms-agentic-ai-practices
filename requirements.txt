@@ -1,0 +1,10 @@
+semantic-kernel
+semantic-kernel[azure, mongo]
+asyncio
+python-dotenv
+azure-search-documents
+fastapi
+pandas
+uvicorn
+streamlit
+watchdog
